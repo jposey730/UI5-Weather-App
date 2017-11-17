@@ -1,0 +1,50 @@
+#__xmlview0--temp_max
+{
+
+	background-color:#FFE4C4;
+	border-color: black;
+	border-radius: 12px;
+    width: 400px;
+    text-align: center
+}
+#__page0-cont
+{
+	background-color:#C2C2C2;
+}
+#__xmlview0--Temp
+{
+
+	background-color:#FFE4C4;
+	border-color: black;
+    border-radius: 12px;
+    width: 400px;
+    text-align: center;
+}
+#__xmlview0--temp_min
+{
+
+	background-color:#FFE4C4;
+	border-color: black;
+	width: 400px;
+    border-radius: 12px;
+    text-align: center;
+}
+#__xmlview0--weatherCond
+{
+	background-color:#FFE4C4;
+	border-color: black;
+	width: 400px;
+    border-radius: 12px;	
+    text-align: center;
+    
+}
+#__page0-intHeader-BarPH
+{
+	background-color:#C2C2C2;
+	border: 2px black;
+}
+#__xmlview0--cityInput-inner
+{
+	width: 400px;
+	font-size: 20px;
+}
